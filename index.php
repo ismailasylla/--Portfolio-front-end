@@ -1,9 +1,3 @@
-<!--
-Author: http://webthemez.com
-Note: Donate to remove backlink/credits in the footer(webthemez.com)--
-Any help: webthemez@gmail.com
-Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
--->
 <!doctype html>
 <html>
 
@@ -19,13 +13,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
   <link href="css/style.css" rel="stylesheet" type="text/css">
   <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
   <link href="css/animate.css" rel="stylesheet" type="text/css">
-
-  <!--[if lt IE 9]>
-    <script src="js/respond-1.1.0.min.js"></script>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/html5element.js"></script>
-<![endif]-->
-
 </head>
 
 <body>
@@ -66,7 +53,8 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
             <div class="col-md-12">
 
               <div class="top_left_cont zoomIn wow animated">
-                <h2>Hello, my name is <b>Ismaila<b><br> <strong>I <i class="fa fa-heart"></i> Programing</strong></h2>
+                <h2>Hello, I am <b>Ismail<b><br> <strong>Am a Full Stack Web-developper I <i class="fa fa-heart"style="
+    color: red;"></i> Programing</strong></h2>
 
                 <div class="underline"></div>
                 <a href="#aboutUs" class="read_more2">Who Am I</a>
@@ -78,9 +66,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
     </div>
   </section>
   <!--Hero_Section-->
-
-
-
   <section id="aboutUs">
     <!--Aboutus-->
     <div class="inner_wrapper aboutUs-container fadeInLeft animated wow">
@@ -91,7 +76,7 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
           <div class="row">
             <div class="col-lg-12 about-us">
               <div class="row">
-                <div class="col-md-6"> <img class="img-responsive" src="img/about2.jpg" align="" width="400px" style="border-radius:200px">
+                <div class="col-md-6"> <img class="img-responsive" src="img/about2.jpg" ,align="" width="400px" style="border-radius:200px">
                 </div><!-- /.col-md-6 -->
                 <div class="col-md-6">
                   <h3>I Design and build Awesome Web Apps</h3>
@@ -132,7 +117,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
           <div class="col-md-3">
             <div class="service_icon delay-03s animated wow  zoomIn"> <span><i class="fa fa-android"></i></span> </div>
             <div class="service_block">
-
               <h3 class="animated fadeInUp wow">Android</h3>
               <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. </p>
@@ -151,7 +135,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
             <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="fa fa-html5"></i></span>
             </div>
             <div class="service_block">
-
               <h3 class="animated fadeInUp wow">Design</h3>
               <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. </p>
@@ -161,7 +144,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
             <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="fa fa-user"></i></span>
             </div>
             <div class="service_block">
-
               <h3 class="animated fadeInUp wow">Development</h3>
               <p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. </p>
@@ -171,15 +153,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
       </div>
     </div>
   </section> -->
-
-
-
-
-
-
-
-
-
 
   <section class="case-study" id="service">
     <div class="container">
@@ -204,19 +177,25 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
               </div>
               <div class="swiper-slide client-box">
                 <img src="img/stacks/react-js-logo.png" class="client-logo">
-                <h3 class="text-left title">ReactJS  is is a Front-End JavaScript library..</h3>
+                <h3 class="text-left title">ReactJS  is is a Front-End JavaScript library..</h3>
                 <p class="text-left tag">Front End framework</p>
                 <p class="text-left"><a href="#">Know More &#8594;</a></p>
               </div>
               <div class="swiper-slide client-box">
-                <img src="img/stacks/vuejs.jpg" class="client-logo">
-                <h3 class="text-left title">Vue is a progressive Front End framework..</h3>
+                <img src="img/stacks/vuejs.png" class="client-logo">
+                <h3 class="text-left title">Vue is a progressive Front End framework..</h3>
                 <p class="text-left tag">Front End framework</p>
                 <p class="text-left"><a href="#">Know More &#8594;</a></p>
               </div>
               <div class="swiper-slide client-box">
                 <img src="img/stacks/laravel_logo.png" class="client-logo">
                 <h3 class="text-left title">Laravel is a PHP Framework..</h3>
+                <p class="text-left tag">Branding, UI, Website</p>
+                <p class="text-left"><a href="#">Know More &#8594;</a></p>
+              </div>
+              <div class="swiper-slide client-box">
+                <img src="img/stacks/wordpress-logo.png" class="client-logo">
+                <h3 class="text-left title">WordPress is an MVC build on top of PHP..</h3>
                 <p class="text-left tag">Branding, UI, Website</p>
                 <p class="text-left"><a href="#">Know More &#8594;</a></p>
               </div>
@@ -425,16 +404,16 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 
   <section class="page_section" id="clients">
     <!--page_section-->
-    <h2>Worked For</h2>
+    <h2>Worked With</h2>
     <!--page_section-->
     <div class="client_logos">
       <!--client_logos-->
       <div class="container">
         <ul class="fadeInRight animated wow">
-          <li><a href="javascript:void(0)"><img src="img/client_logo1.png" alt=""></a></li>
-          <li><a href="javascript:void(0)"><img src="img/client_logo2.png" alt=""></a></li>
-          <li><a href="javascript:void(0)"><img src="img/client_logo3.png" alt=""></a></li>
-          <li><a href="javascript:void(0)"><img src="img/client_logo5.png" alt=""></a></li>
+          <li><a href="javascript:void(0)"><img src="img/stacks/nodejs.png" alt="" class="worked"></a></li>
+          <li><a href="javascript:void(0)"><img src="img/stacks/vuejs.png" alt="" class="worked"></a></li>
+          <li><a href="javascript:void(0)"><img src="img/stacks/react-js-logo.png" alt="" class="worked"></a></li>
+          <li><a href="javascript:void(0)"><img src="img/stacks/angularjs.png" alt="" class="worked"></a></li>
         </ul>
       </div>
     </div>
