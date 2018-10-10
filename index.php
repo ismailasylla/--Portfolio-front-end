@@ -81,9 +81,7 @@
                 <div class="col-md-6">
                   <h3>I Design and build Awesome Web Apps</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida tortor orci ipsum
-                    gravida tortor. Lorem ipsum dolor sit amet, tortor orci ipsum gravida tortor. Lorem ipsum dolor sit
-                    amet, conseconsectetur.
+                  After discovering my passion for web development, I got enough exited, that i started building websites just for fun and started building up several projects, interned with some local business, and hired myself out as a freelancer. I’m looking forward to bringing that passion to a full-time role.” Graduate of Computer science and Application Technology. I have 3 years of Web-Development Experience, 5years of Computer Hardware Maintenance and Networking Troubleshooting experience skills.  I have completed my Master's degree in Economics as well in 2014, I love interactive, experimental technologies, data visualization ... and love everything that's related to computer programming...
                   </p>
 
                   <ul class="about-us-list">
@@ -408,13 +406,14 @@
     <!--page_section-->
     <div class="client_logos">
       <!--client_logos-->
-      <div class="container">
-        <ul class="fadeInRight animated wow">
+      <div class="container-fluid">
+      <img src="/img/stacks/brands.jpg" alt="" class="client_logos">
+        <!-- <ul class="fadeInRight animated wow">
           <li><a href="javascript:void(0)"><img src="img/stacks/nodejs.png" alt="" class="worked"></a></li>
           <li><a href="javascript:void(0)"><img src="img/stacks/vuejs.png" alt="" class="worked"></a></li>
           <li><a href="javascript:void(0)"><img src="img/stacks/react-js-logo.png" alt="" class="worked"></a></li>
           <li><a href="javascript:void(0)"><img src="img/stacks/angularjs.png" alt="" class="worked"></a></li>
-        </ul>
+        </ul> -->
       </div>
     </div>
   </section>
@@ -472,7 +471,7 @@
       <section class="page_section contact" id="contact">
         <div class="contact_section">
           <h2>Get In Touch</h2>
-          <h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
+          <!-- <h6>Let’s talk about your Website</h6> -->
 
         </div>
         <div class="row">
@@ -480,25 +479,27 @@
             <div class="contact_info">
               <div class="detail">
                 <h4>UNIQUE Infoway</h4>
-                <p>104, Some street, NewYork, USA</p>
+                <p class="fa fa-map-marker" aria-hidden="true">  India,Karnataka,Bangalore</p>
               </div>
               <div class="detail">
                 <h4>call us</h4>
-                <p>+1 234 567890</p>
+                <p class="fa fa-phone" aria-hidden="true">  +91 8971504253</p>
               </div>
               <div class="detail">
                 <h4>Email us</h4>
-                <p>support@sitename.com</p>
+                <p class="fa fa-envelope" aria-hidden="true">  Email : syldox@gmail.com</p>
+
+</span>
               </div>
             </div>
 
 
 
             <ul class="social_links">
-              <li class="twitter animated bounceIn wow delay-02s"><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-              <li class="facebook animated bounceIn wow delay-03s"><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-              <li class="pinterest animated bounceIn wow delay-04s"><a href="javascript:void(0)"><i class="fa fa-pinterest"></i></a></li>
-              <li class="gplus animated bounceIn wow delay-05s"><a href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li>
+              <li class="twitter animated bounceIn wow delay-02s"><a href="https://twitter.com/ismailasylla"><i class="fa fa-twitter"></i></a></li>
+              <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.facebook.com/Syldox"><i class="fa fa-facebook"></i></a></li>
+              <li class="pinterest animated bounceIn wow delay-04s"><a href="https://github.com/Syldox"><i class="fa fa-github"></i></a></li>
+              <li class="gplus animated bounceIn wow delay-05s"><a href="https://www.linkedin.com/in/ismaila-sylla-04377b126/"><i class="fa fa-linkedin"></i></a></li>
             </ul>
           </div>
           <div class="col-lg-8 wow fadeInLeft delay-06s">
@@ -516,7 +517,7 @@
       </section>
     </div>
     <div class="container">
-      <div class="footer_bottom"><span>Copyright © 2015, Template by <a href="http://webthemez.com">WebThemez.com</a>.
+      <div class="footer_bottom"><span>Copyright © 2015,  All Rights Reserved | Design by Ismaila Sylla <a href="#">DEV-Hacks</a>.
         </span> </div>
     </div>
   </footer>
